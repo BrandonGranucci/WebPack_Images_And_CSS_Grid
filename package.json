@@ -9,7 +9,14 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "copy-webpack-plugin": "^8.1.0",
+    "image-minimizer-webpack-plugin": "^2.2.0",
+    "imagemin-gifsicle": "^7.0.0",
+    "imagemin-jpegtran": "^7.0.0",
+    "imagemin-optipng": "^8.0.0",
+    "imagemin-svgo": "^9.0.0",
     "webpack": "^5.34.0",
+    "webpack-dev-server": "^3.11.2",
     "webpack-cli": "^4.6.0"
   }
 }
